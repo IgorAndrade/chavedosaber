@@ -41,7 +41,7 @@ font-family: 'Righteous', cursive;
 	left: 0;
 	overflow: hidden;
 	max-width: 0;
-	color:#ff9c00;
+	color:#3c763d;
 	content: attr(data-hover);
 	-webkit-transition: max-width 0.5s;
 	-moz-transition: max-width 0.5s;
@@ -336,12 +336,12 @@ border-bottom:1px solid #000000;
 .header-left {
   width: 25%;
   float: left;
-  background: #ff9c00;
+  background: #000000 white;
   padding: 21px 32px 21px 0px;
 }
 .header-right {
   padding-left: 32px;
-  background: #9cd8d8;
+  background: #3c763d;
   }
 .header-left a {
 font-family: 'Righteous', cursive;
@@ -393,7 +393,7 @@ background-size:cover;
   margin-right: 10px;
 }
 .header-left a span{
-color:#FCD59B;
+color:#3c763d;
 }
 .banner-info h3{
 text-align:center;
@@ -410,7 +410,7 @@ color:#FCD59B;
 .banner-info h4{
 font-family: 'Righteous', cursive;
   font-size: 86px;
-  color: #ff9c00;
+  color: #3c763d;
   text-align: center;
   margin: 30px 0;
 }
@@ -418,7 +418,7 @@ font-family: 'Righteous', cursive;
 color:#fff;
 }
 .banner-info p{
-  background: #ff9c00;
+  background: #3c763d;
   color: #FCD59B;
   text-align: center;
   margin: 0 auto;
@@ -437,12 +437,12 @@ color:#fff;
     text-align:center;
 	font-size:32px;
 	font-family: 'Righteous', cursive;
-	color:#ff9c00;
+	color: #3c763d;
     margin: 0 0 50px 0;
 }
 .about-grid-left h4{
   font-size: 22px;
-  color: #ff9c00;
+  color: #3c763d;
   text-transform: capitalize;
 }
 .about-grid-left p{
@@ -486,7 +486,7 @@ min-height:578px;
   line-height: 1.6em;
 }
 .servc-grid-left .glyphicon {
-  color: #ff9c00;
+  color: #3c763d;
   font-size: 63px;
 }
 .servc-grid-right p{
@@ -612,7 +612,7 @@ width:80%;
    background: rgba(255, 255, 255, 0.5);
      font-family: 'Righteous', cursive;
 	 font-size:20px;
-	color: #ff9c00;
+	color: #3c763d;
    -webkit-box-shadow: 0px 1px 3px rgba(159, 141, 140, 0.5);
    -moz-box-shadow: 0px 1px 3px rgba(159, 141, 140, 0.5);
    box-shadow: 0px 1px 3px rgba(159, 141, 140, 0.5);
@@ -743,7 +743,7 @@ background:#eee;
 }
 .contact-top-one h4 {
   font-size: 18px;
-  color: #ff9c00;
+  color: #3c763d;
   font-weight: 400;
   margin: 0;
   text-align: left;
@@ -771,7 +771,7 @@ background:#eee;
  font-size:1em;
 }
 .contact-top-one p a:hover {
-	color:#ff9c00;
+	color:#3c763d;
 	text-decoration: none;
 }
 .contact-top-right form input[type="text"] {  width: 49%;
@@ -807,7 +807,7 @@ background:#eee;
   padding: 0.7em 3em;
   display: inline-block;
   
-  background:#ff9c00;
+  background:#3c763d;
   margin-top: 1em;
   -webkit-appearance: none;
   float: left;
@@ -846,7 +846,7 @@ color: #ffffff;
 }
 .copy-right p a{
 text-decoration:none;
-color: #ff9c00;
+color: #3c763d;
 }
 .copy-right p a:hover{
 color:#fff;
